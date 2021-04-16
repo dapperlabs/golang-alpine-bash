@@ -9,3 +9,6 @@ Added `go-bindata` and `stringer` tools that are used for `go:generate`
 25/07/2019
 
 Added `openssh` for accessing private dependencies
+
+16/Apr/2021
+Upgrade to go 1.16
