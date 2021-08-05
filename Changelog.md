@@ -12,3 +12,6 @@ Added `openssh` for accessing private dependencies
 
 16/Apr/2021
 Upgrade to go 1.16
+
+5/Aug/2021
+Upgrade to latest golang:alphine
